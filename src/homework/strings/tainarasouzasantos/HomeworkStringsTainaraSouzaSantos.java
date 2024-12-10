@@ -47,5 +47,7 @@ public class HomeworkStringsTainaraSouzaSantos {
     System.out.println("Your ancestral Druid tree name is " + druidName + ".");
         
     //the code finished
+    
+    
     }
 }
